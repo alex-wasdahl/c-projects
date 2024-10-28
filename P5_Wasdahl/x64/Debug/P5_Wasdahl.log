@@ -1,0 +1,4 @@
+﻿  jitter.cpp
+D:\CS31\P5_Wasdahl\jitter.cpp(208,29): error C2664: 'char *strcpy(char *,const char *)': cannot convert argument 2 from 'char' to 'const char *'
+D:\CS31\P5_Wasdahl\jitter.cpp(208,25): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(130,1): message : see declaration of 'strcpy'
