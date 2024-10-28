@@ -1,0 +1,4 @@
+﻿hello.obj : error LNK2005: main already defined in compile_error.obj
+logic_error.obj : error LNK2005: main already defined in compile_error.obj
+original.obj : error LNK2005: main already defined in compile_error.obj
+D:\CS31\P1\x64\Debug\P1.exe : fatal error LNK1169: one or more multiply defined symbols found
