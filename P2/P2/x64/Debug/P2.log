@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+D:\CS31\P2\P2\Source1.cpp(45,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CS31\P2\P2\Source1.cpp(48,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CS31\P2\P2\Source1.cpp(55,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CS31\P2\P2\Source1.cpp(58,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  P2.vcxproj -> D:\CS31\P2\x64\Debug\P2.exe
